@@ -1,3 +1,7 @@
+body {
+  background-color: #fff0f070;
+}
+
 h1 {
   font-family: "Harrington", fantasy;
   text-align: center;
@@ -6,7 +10,6 @@ h1 {
 }
 
 img {
-  background-color: white;
   margin: 0 auto;
   display: block;
   max-width: 100%;
